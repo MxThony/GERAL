@@ -1,0 +1,2 @@
+# GERAL
+Arquivos de clientes 
